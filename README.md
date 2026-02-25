@@ -3,6 +3,7 @@
 
 ![octotherm](https://github.com/user-attachments/assets/1787f380-d333-44cf-9cc0-79c5a6eb59c8)
 
+https://xrbunker.works/products/octotherm
 
 Configure Seeeduino XIAO for Klipper
 This guide covers the steps to configure a Seeeduino XIAO microcontroller to run Klipper firmware.
